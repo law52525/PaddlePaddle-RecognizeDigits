@@ -10,7 +10,7 @@ nltk==3.4
 numpy==1.15.4
 opencv-python==3.4.5.20
 paddlepaddle==1.2.0
-Pillow==5.4.1
+Pillow==8.3.2
 protobuf==3.1.0
 pyparsing==2.3.0
 python-dateutil==2.7.5
