@@ -6,7 +6,7 @@ graphviz==0.10.1
 idna==2.8
 kiwisolver==1.0.1
 matplotlib==2.2.3
-nltk==3.4
+nltk==3.6.3
 numpy==1.15.4
 opencv-python==3.4.5.20
 paddlepaddle==1.2.0
