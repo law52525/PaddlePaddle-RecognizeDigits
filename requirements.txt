@@ -8,7 +8,7 @@ kiwisolver==1.0.1
 matplotlib==2.2.3
 nltk==3.4
 numpy==1.15.4
-opencv-python==3.4.5.20
+opencv-python==4.2.0.32
 paddlepaddle==1.2.0
 Pillow==5.4.1
 protobuf==3.1.0
