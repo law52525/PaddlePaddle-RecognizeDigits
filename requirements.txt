@@ -11,7 +11,7 @@ numpy==1.15.4
 opencv-python==3.4.5.20
 paddlepaddle==1.2.0
 Pillow==5.4.1
-protobuf==3.1.0
+protobuf==3.18.3
 pyparsing==2.3.0
 python-dateutil==2.7.5
 pytz==2018.9
